@@ -1,20 +1,7 @@
-# BlogOrm
-
-<img src="assets/img/img-readme.png" alt="Imagem da home page de um usuário do blogorm">
-
-> Um blog simples com CRUD para posts (posts tem muito a melhorar).
-
+# JWT - Json Web Tokens using Golang standart http packag
 
 ### Ajustes e melhorias
 
-O projeto foi criado enquanto eu estudava SQL e tinha como objetivo inicial ser apenas um blog com operações simples,
-porém acabou virando um frankenstein e eu vou adicionando novas coisas nele conforme eu vou as estudando. 
-
-- [ ] Criar um mecanismo de amizades.
-- [ ] Like nos posts.
-- [ ] Posts com opção de ser público ou privado.
-- [ ] Adicionar caching com Redis (A priori não sei se é necessário mas vou implementar para estudo).
-- [ ] Deploy Heroku.
 
 ## 💻 Pré-requisitos
 
