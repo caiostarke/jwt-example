@@ -1,8 +1,5 @@
 # JWT - Json Web Tokens using Golang standart http packag
 
-### Ajustes e melhorias
-
-
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
@@ -22,3 +19,15 @@ Windows:
 <$ git clone "linkDoProjeto">
 ```
 
+## 🚀 Rodando usando Docker
+
+```
+< $docker build . ">
+< $docker run -d -p 8080:80 >
+```
+
+## 🚀 Rodando localmente sem docker (precisa ter o GO instalado)
+
+```
+< $go run main.go ">
+```
