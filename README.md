@@ -6,11 +6,11 @@
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
-* Você instalou a versão mais recente de `< Go e Docker >`
+* Você instalou a versão mais recente de `< Docker ou Go >`
 
-## 🚀 Instalando <blogorm>
+## 🚀 Instalando <app>
 
-Para instalar o <blogorm>, siga estas etapas:
+Para instalar, siga estas etapas:
 
 Linux e macOS:
 ```
@@ -21,3 +21,4 @@ Windows:
 ```
 <$ git clone "linkDoProjeto">
 ```
+
